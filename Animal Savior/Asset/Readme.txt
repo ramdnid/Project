@@ -1,0 +1,1 @@
+Asset yang ada pada portofolio ini merupakan kumpulan asset yang dibuat sendiri.
