@@ -1,0 +1,83 @@
+.header {
+	background-color: blue;
+	padding-bottom: 10px;
+	margin-top: -10px;
+}
+.isi {
+	background-color: gold;
+	border: 1px solid  black;
+	padding-left: 10px;
+	border-radius: 10px 10px 10px 10px;
+}
+.isi img{
+	border: 1px solid white;
+	border-radius: 4px 4px 4px 4px;
+}
+.menu {
+	margin: 0;
+	padding: 0;
+	height: 40px;
+	background-color: gold;
+	font-family: Arial, sans-serif;
+	margin-top: -16px;
+	line-height: 40px;
+	margin-bottom: -50px;
+}
+.menu ul{
+	list-style-type: none;
+}
+.menu li {
+	display: inline-block;
+}
+.menu li a{
+	text-decoration: none;
+	text-align: center;
+	padding: 8px 8px;
+}
+.menu li a:hover {
+	background-color: white;
+	font-weight: bold;
+}
+.
+.visi {
+	padding-top: 80px;
+	padding-left: 50px;
+	margin-top: -24px;
+	background-color: gold;
+	border-radius: 200px 200px 200px 200px;
+	height: 400px;
+	font-family: Times New Romans, Arial, Verdana, sans-serif;
+}
+.sejarah {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	margin-top: -24px;
+	background-color: gold;
+	border-radius: 100px 100px 100px 100px;
+	min-height: 440px;
+	font-family: Times New Romans, Arial, Verdana, sans-serif;
+}
+.misi {
+
+}
+
+.unit {
+	background-color: gold;
+	border-radius: 40px 40px 40px 40px;
+	padding: 10px;
+
+}
+.so {
+	text-align: center;
+	background-color: gold;
+	border-radius: 40px 40px 40px 40px;
+	padding: 5px;
+ }
+ .footer {
+ 	height: 100px;
+ 	background-color: black;
+ 	color: white;
+ 	text-align: center;
+ 	line-height: 100px;
+ }
